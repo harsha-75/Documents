@@ -48,12 +48,3 @@
  - Very Long Requests 
 
  - What if client disconnects ?
-
-
-
-
-
-
-
-
-
